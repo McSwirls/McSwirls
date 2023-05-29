@@ -12,7 +12,7 @@ https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fmcswirls.github.io%2FMcSwirls%2
 
 
 .custom.disconnected {
-    background: url(img/disconnected.png); 
+    background: url(./img/disconnected.png); 
     height: 330px;
     width: 331px;
 }

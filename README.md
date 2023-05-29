@@ -1,5 +1,5 @@
 # Menu
-1. <a href="\McSwirls\GamePadViewer">GamePadViewer Green Gameboy</a>
+1. <a href="GamePadViewer">GamePadViewer Green Gameboy</a>
 
 Brian TTS Spam. You are welcome
 

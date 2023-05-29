@@ -50,7 +50,7 @@ start and select buttons. */
 }
 
 .custom .back.pressed, .custom .start.pressed{
-    background-image: url(img/clicked-menu.png);
+    background-image: url(/img/clicked-menu.png);
     background-position: 0px 1px;
 } 
 
@@ -69,7 +69,7 @@ start and select buttons. */
     height:45px;
 }
 .custom .button.pressed{
-    background: url(img/clicked-ab.png);
+    background: url(../img/clicked-ab.png);
 }
 
 /* B is circle and A is cross on the PS4 controller. To resolve this, the remapping occurs within the URL */

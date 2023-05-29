@@ -1,0 +1,143 @@
+/*BEGIN Game Boy Color Controller Styling*/
+/* Here is the link that works (for now)
+https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fmartinmcs.github.io%2FGamePadViewer%2Fgameboy.css&map=%7B%22mapping%22%3A%5B%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%220%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%221%22%7D%2C%7B%22targetType%22%3A%22buttons%22%2C%22target%22%3A%221%22%2C%22disabled%22%3Afalse%2C%22choiceType%22%3A%22buttons%22%2C%22choice%22%3A%220%22%7D%5D%7D
+*/
+
+/*This class defines the base attributes of the skin*/
+.controller.custom{
+    background: url(gameboy.png); 
+    height: 330px;
+    width: 331px;
+}
+
+
+.custom.disconnected {
+    background: url(disconnected.png); 
+    height: 330px;
+    width: 331px;
+}
+
+/* This hides the controller's button when disconnected so only the background image remains */ 
+.custom.disconnected div {
+    display: none;
+}
+
+/* This is to size and position the containing div for the 
+start and select buttons. */
+
+/* Position and size are set. Only "pressed" to review */
+.custom .arrows{
+    position: absolute;
+    width: 78px;
+    height: 28px;
+    top: 222px;
+    left: 123px;
+}
+
+.custom .back, .custom .start{
+    width: 31px;
+    height: 15px;
+}
+
+.custom .back{
+    position: absolute;
+    top: 7px;
+}
+.custom .start{
+    position: absolute;
+    top: 7px;
+    right: 0px;
+}
+
+.custom .back.pressed, .custom .start.pressed{
+    background-image: url(clicked-menu.png);
+    background-position: 0px 1px;
+} 
+
+/* Positioning and size of the container for the face buttons */
+.custom .abxy{
+    position: absolute;
+    width: 98px;
+    height: 67px;
+    top: 112px;
+    left: 202px;
+}
+/* base class used to simplify the sprite mapping */
+.custom .button{
+    position: absolute;
+    width:45px;
+    height:45px;
+}
+.custom .button.pressed{
+    background: url(clicked-ab.png);
+}
+
+/* B is circle and A is cross on the PS4 controller. To resolve this, the remapping occurs within the URL */
+.custom .a{
+    top: 0px;
+    left: 52px;
+}
+
+.custom .b{
+    top: 21px;
+    right: 54px;
+}
+
+
+.custom .a.pressed{
+    background-position: 2px 44px;
+}
+.custom .b.pressed{
+    background-position: 43px -82px;
+}
+
+/* Square and Triangle. Set to 0 so that it does not show */
+.custom .x.pressed{
+    background-size: 0;
+}
+.custom .y.pressed{
+    background-size: 0;
+}
+
+
+/* DPAD Complete */
+.custom .dpad{
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    top: 100px;
+    left: 30px;
+}
+.custom .face{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+}
+.custom .face.up{
+    left: 28px;
+    top: 3px;
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+.custom .face.down{
+    left: 28px;
+    top: 56px;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+.custom .face.left{
+    top: 29px;
+    left: 1px;
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+.custom .face.right{
+    top: 28px;
+    right: 0px;
+}
+.custom .face.pressed{
+    background: url(clicked-dpad.png);
+    background-position: -2px -112px;
+}
+
+/*END Game Boy Color Controller Styling*/

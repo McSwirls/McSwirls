@@ -5,14 +5,14 @@ https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fmcswirls.github.io%2FMcSwirls%2
 
 /*This class defines the base attributes of the skin*/
 .controller.custom{
-    background: url(/img/gameboy.png); 
+    background: url(img/gameboy.png); 
     height: 330px;
     width: 331px;
 }
 
 
 .custom.disconnected {
-    background: url(/img/disconnected.png); 
+    background: url(img/disconnected.png); 
     height: 330px;
     width: 331px;
 }
@@ -50,7 +50,7 @@ start and select buttons. */
 }
 
 .custom .back.pressed, .custom .start.pressed{
-    background-image: url(/img/clicked-menu.png);
+    background-image: url(img/clicked-menu.png);
     background-position: 0px 1px;
 } 
 
@@ -69,7 +69,7 @@ start and select buttons. */
     height:45px;
 }
 .custom .button.pressed{
-    background: url(/img/clicked-ab.png);
+    background: url(img/clicked-ab.png);
 }
 
 /* B is circle and A is cross on the PS4 controller. To resolve this, the remapping occurs within the URL */

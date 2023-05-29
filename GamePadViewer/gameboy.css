@@ -136,7 +136,7 @@ start and select buttons. */
     right: 0px;
 }
 .custom .face.pressed{
-    background: url(clicked-dpad.png);
+    background: url(img/clicked-dpad.png);
     background-position: -2px -112px;
 }
 

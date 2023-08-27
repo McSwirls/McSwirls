@@ -53,3 +53,6 @@ Time: 0:18<br />
 
 Time: 0:10<br />
 ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm
+
+Time: ?:??<br />
+Alright chat. Listen up. FF9 is full of birds, and, I. LOVE. BIRDS. So we’re gonna be talking about the, booby. The woodcock. Oh? you think that’s funny? Do you find it amusing that we’ll be talking about the, swallow? We are also gonna talk about the, dickcissel, the bushtit, my all time favorite. Don’t forget about the, cock-of-the-rock, nor the shag. The wind fucker, or common kestrel. And above all, chat. We will definitely be spending a ton of time talking about. GREAT, TITS. Ya?

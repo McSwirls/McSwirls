@@ -61,3 +61,6 @@ Time: ?:??<br />
  I don’t understand why people try to flex using only one bit. Like really? You’re that much of a needy fuck that you have to be a “funny” guy and post some idiotic and annoying message using one bit? Is this so you can post 100 stupid messages for one of mine? You all need to learn how to simp professionally. Reach down into those pockets and actually give a shit about the streamer and their livelihood!
 
 Time: ?:??<br />
+Oh this? My Vivi? My bestest bubbly boi? My fire-casting blizzard-smashing thunder-wielding goddamn black mage? My mace of Zeus-wielding madman? My cutest little existential crisis? Do you mean my goddamn big-hatted adorable best boi ever, Vivi DeezNuts?
+
+Time: ?:??<br />

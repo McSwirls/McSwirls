@@ -59,10 +59,11 @@ ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm ybw Guhm
 Time: ?:??<br />
 Alright chat. Listen up. FF9 is full of birds, and, I. LOVE. BIRDS. So we’re gonna be talking about the, booby. The woodcock. Oh? you think that’s funny? Do you find it amusing that we’ll be talking about the, swallow? We are also gonna talk about the, dickcissel, the bushtit, my all time favorite. Don’t forget about the, cock-of-the-rock, nor the shag. The wind fucker, or common kestrel. And above all, chat. We will definitely be spending a ton of time talking about. GREAT, TITS. Ya?
 
-Time: ?:??<br />
- I don’t understand why people try to flex using only one bit. Like really? You’re that much of a needy fuck that you have to be a “funny” guy and post some idiotic and annoying message using one bit? Is this so you can post 100 stupid messages for one of mine? You all need to learn how to simp professionally. Reach down into those pockets and actually give a shit about the streamer and their livelihood!
-
-Time: ?:??<br />
+Time: 0:19<br />
 Oh this? My Vivi? My bestest bubbly boi? My fire-casting blizzard-smashing thunder-wielding goddamn black mage? My mace of Zeus-wielding madman? My cutest little existential crisis? Do you mean my goddamn big-hatted adorable best boi ever, Vivi DeezNuts?
 
-Time: ?:??<br />
+Time: 0:30<br />
+Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee?
+
+Time: 0:22<br />
+beach, mouse, beach beach mouse, chxijchchxijchxchxijchxchxijch beach, mouse, beach beach mouse, chxijchchxijchxchxijchxchxijch beach, mouse, beach beach mouse, chxijchchxijchxchxijchxchxijch beach, mouse, beach beach mouse, chxijchchxijchxchxijchxchxijc

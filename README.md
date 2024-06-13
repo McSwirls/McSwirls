@@ -62,6 +62,9 @@ Alright chat. Listen up. FF9 is full of birds, and, I. LOVE. BIRDS. So we’re g
 Time: 0:19<br />
 Oh this? My Vivi? My bestest bubbly boi? My fire-casting blizzard-smashing thunder-wielding goddamn black mage? My mace of Zeus-wielding madman? My cutest little existential crisis? Do you mean my goddamn big-hatted adorable best boi ever, Vivi DeezNuts?
 
+Time: ?:??<br />
+Can I slice some heads? ok! thanks! yQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrQKRTCHTrv.
+
 Time: 0:30<br />
 Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee?
 

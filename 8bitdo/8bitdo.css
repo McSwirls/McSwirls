@@ -1,8 +1,8 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(img/base.svg);
-    height: 598px;
-    width: 806px;
+    background: url(img/8bitdo-base.png);
+    height: 468px;
+    width: 714px;
     /*    margin-left: -403px;
         margin-top: -280px;*/
 }

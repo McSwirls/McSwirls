@@ -3,10 +3,8 @@
     background: url(img/8bitdo-base.png);
     height: 468px;
     width: 714px;
-    /*    margin-left: -403px;
-        margin-top: -280px;*/
 }
-
+/*
 .ds4.disconnected {
     background: url(img/disconnected.svg);
 }
@@ -58,8 +56,6 @@
 }
 
 .ds4 .bumper.left {
-    /* -webkit-transform: rotateY(180deg); */
-    /* transform: rotateY(180deg); */
     float: left;
 }
 
@@ -92,27 +88,6 @@
     background: url(img/meta.svg) no-repeat center;
 }
 
-/*Not needed, but I like keeping them here for posterity*/
-/*.ds4 .quadrant{
-position: absolute;
-background: url(ps4-assets/player-n.svg);
-height: 17px;
-width: 111px;
-top: 140px;
-left: 240px;
-}
-.ds4 .p0{
-background-position: 0 -6px;
-}
-.ds4 .p1{
-background-position: 0 -28px;
-}
-.ds4 .p2{
-background-position: 0 -49px;
-}
-.ds4 .p3{
-background-position: 0 -70px;
-}*/
 .ds4 .arrows {
     position: absolute;
     width: 352px;
@@ -129,19 +104,15 @@ background-position: 0 -70px;
 }
 
 .ds4 .back.pressed, .ds4 .start.pressed {
-    /* background-position-y: -21px; */
-    /* margin-top: 2px; */
     opacity: 1;
 }
 
 .ds4 .back {
     float: left;
-    /* width: 28px; */
 }
 
 .ds4 .start {
     float: right;
-    /* width: 28px; */
     background-position: 28px 0;
 }
 
@@ -162,7 +133,6 @@ background-position: 0 -70px;
 
 .ds4 .button.pressed {
     background-position-y: 55px;
-    /* margin-top: 5px; */
 }
 
 .ds4 .a {
@@ -268,7 +238,6 @@ background-position: 0 -70px;
 }
 
 .ds4 .face.pressed {
-    /* margin-top: 5px; */
     background-position-y: 52px;
 }
 

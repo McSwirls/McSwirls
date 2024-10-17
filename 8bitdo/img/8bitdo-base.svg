@@ -7,7 +7,7 @@
    width="947.99628"
    height="621.45074"
    viewBox="0 0 947.99628 621.45074"
-   sodipodi:docname="8bitdo-base.png"
+   sodipodi:docname="8bitdo-base.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -60,5 +60,13 @@
        inkscape:export-filename="8bitdo-base.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <path
+       id="path1"
+       style="fill:#f9f9f9"
+       d="m 667.52019,298.77911 a 57.054794,58.308746 0 0 1 -57.0548,58.30875 57.054794,58.308746 0 0 1 -57.05479,-58.30875 57.054794,58.308746 0 0 1 57.05479,-58.30874 57.054794,58.308746 0 0 1 57.0548,58.30874 z" />
+    <path
+       id="path1-2"
+       style="fill:#f9f9f9"
+       d="m 397.32482,298.68463 a 57.054794,58.308746 0 0 1 -57.0548,58.30875 57.054794,58.308746 0 0 1 -57.05479,-58.30875 57.054794,58.308746 0 0 1 57.05479,-58.30874 57.054794,58.308746 0 0 1 57.0548,58.30874 z" />
   </g>
 </svg>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Countdown Timer with Custom Duration</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    .progress-container {
+      width: 100%;
+      height: 8px;
+      background-color: #eee;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 9999;
+    }
+    .progress-bar {
+      height: 100%;
+      background-color: #4caf50;
+      width: 0%;
+      transition: width 1s linear;
+    }
+    .controls {
+      margin-top: 20px;
+      padding: 20px;
+    }
+    .content {
+      padding: 20px;
+      margin-top: 10px;
+    }
+    input[type="number"] {
+      width: 60px;
+      padding: 5px;
+      margin-right: 10px;
+    }
+    button {
+      padding: 5px 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="progress-container">
+    <div class="progress-bar" id="progressBar"></div>
+  </div>
+
+  <div class="controls">
+    <label for="durationInput">Duration (minutes):</label>
+    <input type="number" id="durationInput" min="1" value="1">
+    <button onclick="startTimer()">Start</button>
+  </div>
+
+  <div class="content">
+    <h1>Countdown Timer</h1>
+    <p>The progress bar above will deplete based on the duration you set.</p>
+  </div>
+
+  <script>
+    let timer;
+    const progressBar = document.getElementById('progressBar');
+
+    function startTimer() {
+      clearInterval(timer); // Reset any existing timer
+      const minutes = parseInt(document.getElementById('durationInput').value);
+      if (isNaN(minutes) || minutes < 1) {
+        alert("Please enter a valid number of minutes.");
+        return;
+      }
+
+      const duration = minutes * 60; // convert to seconds
+      let timeLeft = duration;
+      progressBar.style.width = '100%';
+
+      timer = setInterval(() => {
+        timeLeft--;
+        const progressPercent = (timeLeft / duration) * 100;
+        progressBar.style.width = progressPercent + '%';
+
+        if (timeLeft <= 0) {
+          clearInterval(timer);
+          progressBar.style.width = '0%';
+        }
+      }, 1000);
+    }
+  </script>
+
+</body>
+</html>

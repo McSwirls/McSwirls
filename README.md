@@ -71,5 +71,5 @@ Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peepoopoopee? Peepoo? Poopee? Peep
 Time: 0:22<br />
 beach, mouse, beach beach mouse, chxijchchxijchxchxijchxchxijch beach, mouse, beach beach mouse, chxijchchxijchxchxijchxchxijch beach, mouse, beach beach mouse, chxijchchxijchxchxijchxchxijch beach, mouse, beach beach mouse, chxijchchxijchxchxijchxchxijc
 
-Time: <br />
+Time: 0:29<br />
 See this is why I dislike speedrunning so much. Once you start digging into the games code that’s basically cheating. The point should be to see if you can beat it the fastest, by only using stuff allowed in the confines of the retail release. Ask the developers of FFX how they feel about these basedwellers feeling the insides of their game? How can anyone be into this who cares if someone beats a game fast by exploiting glitches? Do it the normal way ffs.

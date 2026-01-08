@@ -13,7 +13,7 @@ When viewers type `!no` in chat, the bot responds with humorous rejection messag
 
 ### Components
 
-1. **API Source**: [No-as-a-Service](https://github.com/islamlists/No-as-a-service) by islamlists
+1. **API Source**: [No-as-a-Service](https://github.com/hotheadhacker/no-as-a-service) 
    - Endpoint: `https://naas.isalman.dev/no`
    - Returns JSON with a random "no" reason
 
@@ -94,7 +94,7 @@ ${urlfetch https://your-worker.your-subdomain.workers.dev}
 
 ## Credits
 
-- [No-as-a-Service API](https://github.com/islamlists/No-as-a-service) by islamlists
+- [No-as-a-Service](https://github.com/hotheadhacker/no-as-a-service)
 - Cloudflare Workers for serverless hosting
 - StreamElements for bot functionality
 

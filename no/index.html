@@ -17,7 +17,7 @@
             })
             .catch(error => {
                 // If direct fetch fails due to CORS, try the proxy
-                fetch('https://api.allorigins.win/get?url=' + encodeURIComponent('https://naas.isalman.dev/no'))
+                fetch('https://naas.isalman.dev/no')
                     .then(response => response.json())
                     .then(proxyData => {
                         const data = JSON.parse(proxyData.contents);
